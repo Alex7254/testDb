@@ -1,5 +1,4 @@
-{
- scenarios: [
+[
    { 
      id: 1,
      scenarioName: 'Scenario 1',
@@ -12,5 +11,4 @@
      capacity: 10,
      availability: 92
    },
-   ]
-}
+]
