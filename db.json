@@ -1,4 +1,5 @@
-[
+{
+ scenarios: [
   {
     "id": 1,
     "scenarioName": "Scenario One",
@@ -11,4 +12,18 @@
     "capacity": 10,
     "availability": 87
   }
-]
+],
+ events: [
+   {
+     "id": 1,
+   "eventName": "Event One",
+   "date": "August 30, 2019",
+   "type": "Basketball"
+   },
+   {
+     "id": 2,
+     "eventName": "Event Two",
+     "date": "September 23, 2019",
+     "type": "Tennis"
+  ]
+}
