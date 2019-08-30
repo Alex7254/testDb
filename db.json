@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "scenarioName": 'Scenario One',
+    "scenarioName": "Scenario One",
     "capacity": 60,
     "availability": 45
   },
   {
     "id": 2,
-    "scenarioName": 'Scenario Two',
+    "scenarioName": "Scenario Two",
     "capacity": 10,
     "availability": 87
   }
