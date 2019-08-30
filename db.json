@@ -1,5 +1,5 @@
 {
- scenarios: [
+ "scenarios": [
   {
     "id": 1,
     "scenarioName": "Scenario One",
@@ -13,7 +13,7 @@
     "availability": 87
   }
 ],
- events: [
+"events": [
    {
      "id": 1,
    "eventName": "Event One",
