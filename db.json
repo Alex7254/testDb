@@ -10,4 +10,5 @@
     scenarioName: 'Scenario 2',
     capacity: 10,
     availability: 87
+  }
 ]
