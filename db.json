@@ -1,1 +1,16 @@
-
+{
+ scenarios: [
+   { 
+     id: 1,
+     scenarioName: 'Scenario 1',
+     capacity: 45,
+     availability: 15
+   },
+   { 
+     id: 2,
+     scenarioName: 'Scenario 2',
+     capacity: 10,
+     availability: 92
+   },
+   ]
+}
